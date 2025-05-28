@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DinhMaiThu_K224111464_411c</string>
+    <string name="title_username">Username</string>
+    <string name="title_password">Password</string>
+    <string name="title_savelogin">Save Login info</string>
+    <string name="title_login">Login</string>
+    <string name="title_exit">Exit</string>
+    <string name="title_addproduct">🛍️ Add New Product</string>
+    <string name="title_productcode">Product Code</string>
+    <string name="title_pdname">Product Name</string>
+    <string name="title_price">Price</string>
+    <string name="title_image">Image URL</string>
+    <string name="title_btnaddproduct">Add Product</string>
+    <string name="title">🍧 Product List</string>
+</resources>
